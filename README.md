@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 03.10.2023
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -21,9 +21,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![image](https://github.com/Nethraa24/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/121215786/6712992a-d6cb-4133-a644-bb870cafef06)
 
-### Name:
-### Register Number:
+### Name: J.NETHRAA
+### Register Number: 212222100031
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
